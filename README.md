@@ -3,7 +3,7 @@ Vision-Based Ground Target Localization and Tracking System Based on the Angle o
 
 ## **Introduction**  
 This GitHub project is a code repository for fixed-wing UAV communication using **MAVROS** to retrieve UAV telemetry and compute the **Angle of Attack (AOA)** relative to an observation point.  
-MAVROS is a **ROS package** used for communication with the **MAVLink protocol**.  
+MAVROS is a ROS package used for communication with the **MAVLink protocol**.  
 
 ## **Features**  
 - Retrieve UAV state data via MAVROS  
